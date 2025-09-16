@@ -23,14 +23,19 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=react&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machadop1407&theme=react" />
-</div>
+![Apip's GitHub stats](https://github-readme-stats.vercel.app/api?username=apipkurniawan&show_icons=true&theme=radical)
 
---- -->
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apipkurniawan&layout=compact&theme=radical)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=apipkurniawan&theme=radical&hide_border=true)
+
+---
 
 ## 🤝 Connect with Me
 
