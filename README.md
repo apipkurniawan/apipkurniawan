@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
+- 💻 Passionate about building fullstack apps with **Angular**, **React**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
